@@ -1,5 +1,7 @@
 # **Study Notes: DataExpert.io 6-Week Free Data Engineering Boot Camp Kick-off**
 
+![DE  Bootcamp Logo](../images/week00/de-bootcamp-community-edition.png)
+
 ## **1. Introduction & Overview**
 
 - **Program:** A free, intense, 6-week data engineering boot camp.
@@ -38,7 +40,7 @@ The curriculum is split into two main tracks: an **Analytical Track** and an **I
 | **KPIs & Experimentation:** Learn to think like a product manager, defining good metrics and experiments. | **Data Quality Patterns:** Using **Astronomer** and the powerful **Write-Audit-Publish** pattern to prevent bad data in production. |
 | **Data Visualization & Impact:** Focuses on communication, saying "no" to low-value requests, and a practical lesson on **Tableau** (exploratory vs. executive dashboards). | **Real-time Pipelines:** A 4-hour module on using **Flink** and **Kafka**. **Docker setup is mandatory for this section.** |
 
-![image.png](attachment:dfd44dbd-6e41-4ee2-93dc-b09ff3d65f30:image.png)
+![Curricula](../images/week00/curricula.png)
 
 **Key Technology Requirement:**
 
