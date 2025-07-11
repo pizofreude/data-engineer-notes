@@ -46,7 +46,7 @@ Each week contains:
 
 ## Learning Progress
 
-- [ ] Week 0: Database setup and Boot Camp Kickoff
+- [X] Week 0: Database setup and Boot Camp Kickoff
 - [ ] Week 1: Introduction to Data Engineering
 - [ ] Week 2: SQL and Data Modeling
 - [ ] Week 3: Data Pipelines and ETL
